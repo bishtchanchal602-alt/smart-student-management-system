@@ -1,1 +1,1 @@
-# smart-student-management-system
+The Smart Student Management System is a Java-based application designed to manage student records efficiently. It allows users to add, view, search, update, and delete student information, as well as calculate marks, percentage, and results. The project is developed in three phases, progressing from basic Java programming to advanced OOP, file handling, serialization, and finally a user-friendly GUI using Java Swing/AWT
